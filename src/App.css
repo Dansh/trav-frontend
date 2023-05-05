@@ -1,0 +1,86 @@
+:root {
+  --dark-blue: rgb(0, 30, 54);
+  --light-blue: rgb(48, 168,255);
+}
+
+#root{
+  height: 100%;
+}
+
+.App {
+  text-align: center;
+  color: var(--dark-blue);
+  height: 100%;
+}
+
+html , body{
+  height: 100%;
+}
+
+#main-header {
+  font-size: 70px;
+  margin-top: 30px;
+  margin-bottom: 0px;
+  color: var(--dark-blue);
+}
+
+#continue-btn{
+  background-color: var(--dark-blue);
+  border: none;
+  font-size:30px;
+  padding-top: 5px;    
+  padding-bottom: 5px;    
+  padding-right: 15px;    
+  padding-left: 15px;   
+  height: 70px; 
+  width: 100%;
+  border-radius: 0;
+
+}
+
+
+#input-text{
+  height: 70px;
+  font-size: 50px;
+  color: var(--dark-blue);
+  font-weight: bold;
+  border-radius: 0;
+}
+
+#half-earth-image{
+  width: 90%;
+  max-height: 50%;
+  max-width: 700px;
+  position: absolute;  
+  bottom: 0;  
+}
+
+
+@media (min-width: 576px)
+{ 
+  #half-earth-image{
+    width: 90%;
+    }
+}
+
+
+@media (min-width: 768px) {
+  #half-earth-image{
+    width: 80%;
+    }
+}
+
+
+@media (min-width: 992px) {
+
+  }
+
+
+@media (min-width: 1200px) {
+
+  }
+
+
+@media (min-width: 1400px) {
+
+ }

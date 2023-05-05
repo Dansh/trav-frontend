@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/trav-frontend/static/css/main.a7199d0e.css",
+    "main.js": "/trav-frontend/static/js/main.7c89b86f.js",
+    "static/js/787.4c586d8a.chunk.js": "/trav-frontend/static/js/787.4c586d8a.chunk.js",
+    "static/media/earth.png": "/trav-frontend/static/media/earth.639e8c76005d8abbb551.png",
+    "static/media/airplane.png": "/trav-frontend/static/media/airplane.513d9a25e7c27006bca4.png",
+    "static/media/half-earth.png": "/trav-frontend/static/media/half-earth.63669f85da89cb9827d8.png",
+    "index.html": "/trav-frontend/index.html",
+    "main.a7199d0e.css.map": "/trav-frontend/static/css/main.a7199d0e.css.map",
+    "main.7c89b86f.js.map": "/trav-frontend/static/js/main.7c89b86f.js.map",
+    "787.4c586d8a.chunk.js.map": "/trav-frontend/static/js/787.4c586d8a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7199d0e.css",
+    "static/js/main.7c89b86f.js"
+  ]
+}
